@@ -64,3 +64,4 @@ C:\Users\Aluno\Source\Repos\AulaPresencialAtividade2\CepApp\CepApp\obj\Debug\net
 C:\Users\Aluno\Source\Repos\AulaPresencialAtividade2\CepApp\CepApp\obj\Debug\netcoreapp2.1\CepApp.dll
 C:\Users\Aluno\Source\Repos\AulaPresencialAtividade2\CepApp\CepApp\obj\Debug\netcoreapp2.1\CepApp.pdb
 C:\Users\Aluno\Source\Repos\AulaPresencialAtividade2\CepApp\CepApp\obj\Debug\netcoreapp2.1\CepApp.csproj.CopyComplete
+C:\Users\Aluno\Source\Repos\AulaPresencialAtividade2\CepApp\CepApp\obj\Debug\netcoreapp2.1\Razor\Views\Endereco\Enderecos.g.cshtml.cs

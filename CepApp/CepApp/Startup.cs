@@ -57,9 +57,9 @@ namespace CepApp
 
             app.UseMvc(routes =>
             {
-                routes.MapRoute(
-                    name: "default",
-                    template: "{controller=Cep}/{action=Index}/{id?}");
+                routes
+                .MapRoute(name: "default", template: "{controller=Cep}/{action=Index}/{id?}")
+                .MapRoute(name: "api", template: "api/{controller}/{action=Enderecos}/{id}");
             });
         }
     }
